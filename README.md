@@ -1,6 +1,6 @@
 ### Hi don't be shy to give me feedback 👋
 
-I am Stefanny, 🔭 I’m currently working on projects of AI,and university course projects, also, I’m learning a lot by myself because I like it, I'm passionatr about IOT, AI, ML and DS, 👯 I’m looking to collaborate on open source project that create impact to comunities that need it and  🤔 I’m looking for help and
+I am Stefanny, 🔭 I’m currently working on projects of AI,and university course projects, also, I’m learning a lot by myself because I like it, I'm passionate about IOT, AI, ML and DS, 👯 I’m looking fordware to collaborate on open source project that create impact to comunities that need it and  🤔 I’m looking for help and
 to meet people.
 PD, I love Mathematics
 <!--

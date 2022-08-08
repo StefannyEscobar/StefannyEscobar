@@ -1,20 +1,19 @@
-### Hi don't be shy to give me feedback 👋
+### Hi, don't be shy to give me feedback 👋
 
-I am Stefanny, 🔭 I’m currently working on projects of AI,and university course projects, also, I’m learning a lot by myself because I like it, I'm passionate about IOT, AI, ML and DS, 👯 I’m looking fordware to collaborate on open source projects that create impact to comunities that need it and  🤔 I’m looking for help and to meet people.
+- 🔭 I'm Stefanny, I'm currently working on projects of **AI**, university course projects and also, I’m learning a lot by myself because I like it.
+- 🔥 I'm passionate about **IOT**, **AI**, **ML** and everything related to **Data Science**.
+- 🤔 I'm looking fordward to collaborate on open source projects that create real **impact** to communities that need it.
+- 👯 And last but not least, I'm looking to collaborate and meet people outstanding people.
+
+😍 By the way, I love Mathematics.
+
+<h3>💻 Languages and Tools:</h3>
+
+![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white")
 
 
-PD, I love Mathematics
-<!--
-**StefannyEscobar/StefannyEscobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>📊 Metrics:</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Metrics](https://metrics.lecoq.io/StefannyEscobar?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&repositories=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true)

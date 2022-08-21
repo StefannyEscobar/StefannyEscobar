@@ -14,7 +14,7 @@
 ![Jupyter](https://img.shields.io/badge/jupyter-%231572B6.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23F05033.svg?style=for-the-badge&logo=MATLAB&logoColor=blue)
+![MATLAB](https://img.shields.io/badge/MATLAB-%23F05033.svg?style=for-the-badge&logo=MATLAB&logoColor=%5540400202)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)

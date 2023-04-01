@@ -1,11 +1,11 @@
 ### Hi, don't be shy to give me feedback 👋
 
-- 🔭 I'm Stefanny, I'm currently working on projects of **AI**, university course projects and also, I’m learning a lot by myself because I like it.
+- 🔭 I'm Stefanny, I'm currently working on projects of **AI** and **Fintech**, university course projects and also, I’m learning a lot by myself because I like it.
 - 🔥 I'm passionate about **IOT**, **AI**, **ML** and everything related to **Data Science**.
 - 🤔 I'm looking fordward to collaborate on open source projects that create real **impact** to communities that need it.
 - 👯 And last but not least, I'm looking to collaborate and meet outstanding people.
 
-😍 By the way, I love Mathematics.
+😍 By the way, I love Mathematics and Actuary.
 
 <h3>💻 Languages and Tools:</h3>
 
